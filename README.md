@@ -21,7 +21,7 @@
 - **fig_decision_boundary.png** — PCA-projected logistic regression boundary
 - **fig_feature_importances.png** — top predictors (e.g., mean radius, texture)
 
-## Admissions-Ready Highlights
+## Highlights
 - Implemented **supervised learning methods** with mathematical rigor: convex optimization (logistic regression) and recursive partitioning (decision trees).
 - Evaluated models using **ROC/AUC** and **cross-validation**, ensuring robustness.
 - Produced interpretable results (decision boundary visualizations, top predictor ranking).
