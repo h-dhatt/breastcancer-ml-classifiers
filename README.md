@@ -1,8 +1,7 @@
 
 # Machine Learning with a Mathematical Lens — Breast Cancer Dataset
 
-**Author:** You (B.Sc. (Honours) Math & Stats, McMaster)  
-**Target Program:** York University — MA in Mathematics & Statistics
+**Author:** Harleen Dhatt (B.Sc. (Honours) Math & Stats, McMaster)  
 
 ## Objectives
 1. Apply **Logistic Regression** (probabilistic, convex optimization) and **Decision Tree** (nonparametric, recursive partitioning) to a real biomedical dataset.
